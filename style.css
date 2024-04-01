@@ -1,0 +1,13 @@
+.header-color{
+    background-color: rgb(223, 134, 19);
+}
+.nav{
+    display: flex ; 
+}
+ .nav-color{   background-color: rgb(228, 165, 194);
+}
+.nav-list{
+    list-style: none; 
+    margin-right: 10px;
+}
+
